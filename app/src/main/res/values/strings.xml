@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork1.8</string>
+    <string name="Send">send</string>
+    <string name="To">To</string>
+    <string name="object">Object</string>
+    <string name="Message">Введите сообщение</string>
+    <string name="theme">Theme</string>
+</resources>
